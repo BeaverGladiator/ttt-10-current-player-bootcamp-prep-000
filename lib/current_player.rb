@@ -6,6 +6,4 @@ def turn_count(board)
       turns_played += 1
     end
   end
-  
-  puts "#{turns_played} turns have been played"
 end
