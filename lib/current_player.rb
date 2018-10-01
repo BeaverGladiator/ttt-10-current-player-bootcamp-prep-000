@@ -7,5 +7,5 @@ def turn_count(board)
       turns_played += 1
     end
   end
-  return turns_played
+
 end
