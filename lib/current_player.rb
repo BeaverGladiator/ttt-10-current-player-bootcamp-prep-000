@@ -1,3 +1,4 @@
+# count turns_played
 def turn_count(board)
   turns_played = 0 
   board.each do |position|
@@ -6,4 +7,9 @@ def turn_count(board)
     end
   end
   return turns_played
+end
+
+# current player
+def current_player(board)
+  
 end
