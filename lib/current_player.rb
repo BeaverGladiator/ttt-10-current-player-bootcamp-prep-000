@@ -1,5 +1,3 @@
-
-
 def turn_count(board)
   turns_played = 0 
   board.each do |position|
